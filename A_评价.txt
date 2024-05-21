@@ -1,0 +1,2 @@
+Remark		评价
+Comment		评价，评论

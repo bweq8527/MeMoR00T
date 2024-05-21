@@ -1,0 +1,5 @@
+-mand
+
+
+Demand		要求，需求
+Command	命令
