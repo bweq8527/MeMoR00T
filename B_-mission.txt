@@ -1,0 +1,7 @@
+-mission
+
+
+Mission		任务，使命；职责；传教
+Admission	准许加入，承认
+Commission	委员会；委托，委任
+Permission	许可证，批准

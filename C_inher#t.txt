@@ -1,0 +1,2 @@
+Inherit		继承
+Inherent		内在的，固有的，与生俱来的
