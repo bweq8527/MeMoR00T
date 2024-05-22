@@ -1,0 +1,5 @@
+-promise
+
+
+Promise		承诺，保证
+Compromise	折中，拖鞋；危及，有损
