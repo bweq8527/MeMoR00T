@@ -1,0 +1,3 @@
+Department	部门，科，系
+Sector		部门，行业；扇形
+Division		部门；分开，分歧；除法

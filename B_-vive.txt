@@ -1,0 +1,6 @@
+-vive
+
+
+Survive		生存，幸存
+Revive		复活，复兴
+Vivid		有生气的，有活力的，生动的

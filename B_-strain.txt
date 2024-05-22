@@ -1,0 +1,6 @@
+-strain
+
+
+Strain		压力；拉伤，劳损；尽力。拉紧
+Constrain		限制，束缚，强迫
+Restrain		抑制，制止，控制，克制

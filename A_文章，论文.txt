@@ -1,0 +1,4 @@
+Essay		文章，随笔，论文
+Composition	构成；作品；论文
+Paper		论文；纸张；报纸
+Thesis		学位论文；命题，论点

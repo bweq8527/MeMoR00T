@@ -1,0 +1,13 @@
+-sequent/=sequence
+
+
+Frequent		频繁的，经常的
+
+Sequent		相继的
+Consequent	随之而来的，因此
+Subsequent	随后的，后来的
+
+
+Sequence		一系列，一连串
+Consequence	后果，结果
+Subsequence	随后发生的事
