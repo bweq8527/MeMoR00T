@@ -1,5 +1,0 @@
-Machine		机器，机械
-Machinery	机器；国家机构，机制
-Mechanical	机械的，机械学的
-Mechanism	机械装置；方法，途径；机制
-

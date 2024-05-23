@@ -1,0 +1,4 @@
+Section		部分，区域；阶层
+Portion		部分
+Proportion	比例；部分，份额；规模
+Slice		切片，薄片；部分

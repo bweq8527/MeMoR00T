@@ -1,0 +1,9 @@
+Vector		向量，矢量，媒介
+Sector		扇形，部分，部门
+Detector		探测器，侦察器
+Hector		恐吓，威胁
+Lector		演讲者
+Rector		校长
+Defector		叛逃者，叛徒；变节的人
+Elector		选民
+Ejector		喷射器，发射器

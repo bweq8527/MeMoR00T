@@ -1,0 +1,7 @@
+Congress		国会，议会
+Parliament	议会，国会
+Assembly		议会，寄回；组装
+Council		地方议会；委员会
+Landtag		州议会
+Commission	委员会
+Committee	委员会

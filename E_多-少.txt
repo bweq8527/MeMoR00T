@@ -1,8 +1,0 @@
-多
-Majority		多数的
-Maximum		最大（最多）
-
-
-少
-Minority		少数的
-Minimum		最小（最少）

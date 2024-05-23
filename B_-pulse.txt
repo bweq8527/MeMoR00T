@@ -1,0 +1,7 @@
+-pulse
+
+
+Pulse		脉冲，脉动，律动
+Impulse		节拍，脉动
+Impulsion		推动力，冲力，脉冲
+Compulsion	脉冲，驱动力；冲动

@@ -1,0 +1,7 @@
+表示“乐观，积极，正极”：
+Possitive
+Optimistic
+
+表示“悲观，消极，负极”：
+Negative
+Pessimistic
