@@ -1,4 +1,4 @@
-Enormous		巨大的，庞大的
+Enormous	巨大的，庞大的
 Vast		巨大的，广阔的
 Significant	重要的，数量庞大的
 Substantial	大量的，重大的，实质性的
