@@ -1,0 +1,5 @@
+Abundant		大量的，丰富的，充足的
+Adequate		充足的，足够的，满足要求的
+Sufficient		满足的，足量，充足
+Enough		足够的，充足的
+Plenty		大量的，充足的
