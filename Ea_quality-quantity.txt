@@ -1,0 +1,2 @@
+Quality		质量
+Quantity		数量

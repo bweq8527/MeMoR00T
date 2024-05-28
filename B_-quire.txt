@@ -1,0 +1,8 @@
+-quire
+
+
+Require		要求，需求；规定
+Acquire		获得，得到；习得
+Inquire		查询，大厅
+Inquiry		打听，询问
+Enquiry		询问，打听，调查，探究
