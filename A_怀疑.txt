@@ -1,0 +1,4 @@
+Spectical		表示怀疑的
+Doubtful		怀疑的，不太可能的
+Suspicious	可以可疑的；觉得可疑的
+Sceptical		表怀疑态度的
