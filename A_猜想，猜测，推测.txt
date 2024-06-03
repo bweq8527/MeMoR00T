@@ -1,0 +1,7 @@
+Guess		猜测，猜想
+Suppose		认为，猜想
+Conjecture	猜想，猜测
+Hypothesis	假说，假设
+Suspition		怀疑，嫌疑
+Speculate		猜想，推测
+Imagine		想象，猜想

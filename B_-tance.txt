@@ -1,0 +1,6 @@
+-tance
+
+
+Substance	物质，主旨，重要性
+Distance		距离
+Instance		例子，实例

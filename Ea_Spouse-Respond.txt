@@ -1,0 +1,2 @@
+Spouse		配偶，对象
+Respond		回应，回答
