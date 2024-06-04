@@ -1,0 +1,8 @@
+-strict
+
+
+Strict		严格的，严厉的
+District		地区，区域
+Restrict		限制，约束
+Astrict		束缚
+Constrict		收缩

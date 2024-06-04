@@ -1,4 +1,5 @@
 Extraordinary	非凡的，卓越的
 Remarkable	非凡的，不同寻常的
 Exceptional	非凡的，接触的，罕见；异常的
-Excellent
+Excellent		卓越的
+Distinction	差异，差别；卓越
