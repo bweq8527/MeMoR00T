@@ -1,0 +1,2 @@
+Dense		密度
+Tense		紧度

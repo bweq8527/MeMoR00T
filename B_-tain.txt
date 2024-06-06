@@ -1,6 +1,11 @@
 -tain
 
 
+Attain		获得，赢得，达到
+Detain		拘留，扣押
+Retain		保留，保持；预留
+Abstain		放弃，弃权；戒除；离开
 Obtain		获得，实现
 Maintain		维修，维持；保养；坚称，供养
 Contain		容纳，包含；控制，克制，遏制
+Sustain		保持，维持；遭受；支撑，认可

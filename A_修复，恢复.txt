@@ -1,0 +1,2 @@
+Recover		修复，恢复
+Restore		修复，使复原；归还

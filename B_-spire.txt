@@ -1,0 +1,13 @@
+-spire
+
+
+Spirit		精神，情绪，勇气，意志
+Inspire		鼓舞，鼓励，激励
+Aspire		渴望，有志于...
+Conspire		密谋，共谋
+Transpire		揭露，泄露，被发现
+Respire		呼吸
+Expire		呼气，死亡，终止，到期，满期
+Perspire		流汗，出汗
+
+Transpiration	蒸发，蒸腾作用
