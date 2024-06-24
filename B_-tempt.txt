@@ -3,4 +3,4 @@
 
 Tempt		引诱，怂恿
 Attempt		尝试，试图
-Contempt	蔑视，鄙视，挑衅
+Contempt		蔑视，鄙视，挑衅
