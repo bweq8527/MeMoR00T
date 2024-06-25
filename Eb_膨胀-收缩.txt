@@ -5,3 +5,4 @@ Inflation
 收缩，通货紧缩，放气，漏气：
 Deflate
 Deflation
+Shrink
