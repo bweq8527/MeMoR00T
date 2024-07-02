@@ -1,7 +1,0 @@
-Argue		争吵，争论
-Debate		辩论，争论，讨论
-Controversy	争论，争议
-Contension	争论，争执（Contend 主张，声称 的变形，不是Content 内容，目录 的变形）
-Dispute		争论，争吵
-
-Altercate		争论

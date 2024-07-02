@@ -1,0 +1,2 @@
+Appoint		指派，任命
+Assign		委派，指派，分配

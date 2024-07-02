@@ -1,0 +1,2 @@
+Campaign		战役，活动
+Champion	冠军

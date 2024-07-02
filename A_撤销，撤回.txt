@@ -1,0 +1,12 @@
+Draw back
+
+Undo		撤回，消除
+Countermand	撤销
+Withdraw		撤回，收回
+
+Repeal		撤销，废止
+Revoke		废除，取消
+Retract		撤销，收回
+Retreat		撤退，撤回
+Recis(s)ion	撤销，废除，取消
+Reverse		彻底转变，撤回，撤销
