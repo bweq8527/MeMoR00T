@@ -1,0 +1,4 @@
+Command	命令，指挥，管辖
+Mandate		授权，强制执行
+Order		顺序，条理；秩序，命令
+Instruction	指示，指令，指导

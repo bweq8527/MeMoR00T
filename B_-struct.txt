@@ -1,0 +1,7 @@
+-struct
+
+Construct		构成，组成，构造
+Destruct		毁坏，损坏
+Instruct		指示，指令；吩咐，传授
+Obstruct		堵塞，遮挡，妨碍，阻挠
+Structure		结构
