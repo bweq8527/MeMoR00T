@@ -3,5 +3,9 @@ Debate		辩论，争论，讨论
 Controversy	争论，争议
 Contension	争论，争执（Contend 主张，声称 的变形，不是Content 内容，目录 的变形）
 Dispute		争论，争吵
+Conflict		争执，冲突
+Clash		冲突
+Friction		摩擦，矛盾，不和
+Contention	争执，争论（Contend的名词形式，非Content的名词）
 
 Altercate		争论

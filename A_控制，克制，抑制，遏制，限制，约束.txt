@@ -1,0 +1,11 @@
+Supress		镇压，压抑，封锁，隐瞒，抑制
+Curb		控制，限制，抑制
+Restrain		制止，阻止，克制，抑制
+Constrain		强制，限制，约束
+Contain		容纳，包含；遏制，抑制
+Stem		茎，阻止，遏制
+
+Restrict		限制，约束
+
+Restraint/Constraint/Restriction
+
