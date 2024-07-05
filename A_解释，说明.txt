@@ -1,4 +1,24 @@
+Explain		解释，说明
 Explanation	解释，说明
+
+Interpret		解释，说明；口译
 Interpretation	解释，说明
+
 Account		解释，说明
 Accountable	应作解释的
+
+Clarify		解释，说明
+Clarification	阐释，阐明
+
+Illustrate		描述，描绘
+Illustration	描述，说明
+
+Illuminate		照亮，照明，说明，阐释
+Illumination	照明，说明
+
+Indicate		表明，说明
+Indication		代表，指向，说明
+
+Explicate		详细说明，详细解释
+Explication	说明，分析
+
