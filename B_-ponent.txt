@@ -1,0 +1,4 @@
+Component	部件，组件
+Proponent	倡导者，拥护者，支持者
+Opponent	对手，竞争者
+Exponent		指数；大师；倡导者，拥护者
