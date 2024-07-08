@@ -1,0 +1,3 @@
+Stratagem		计策，计谋
+Strategy		战略，策略，谋略
+Scheme		方案，计策
