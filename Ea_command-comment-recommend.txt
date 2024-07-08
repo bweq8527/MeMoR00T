@@ -1,0 +1,3 @@
+Command		命令
+Comment			评论
+Recommend		推荐

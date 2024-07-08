@@ -1,0 +1,7 @@
+Fuse		保险丝，融合
+Refuse		拒绝
+Confuse		使困惑，将...混淆
+Diffuse		渗透，扩散，传播，散布
+
+Effuse		溢出，流出
+Defuse		缓和，拆除

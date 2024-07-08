@@ -1,0 +1,5 @@
+Detail		细节，详情
+Retail		零售
+Entail		涉及，牵连
+
+Curtail		限制，削减，缩短
