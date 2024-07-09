@@ -10,6 +10,7 @@ Spur		促进，激励，加速；马刺
 Stimulate		刺激，激发，激励
 Encourage	鼓励，劝告，激励，怂恿，刺激
 Motivate		成为...的动机；激励，激发
+Activat		激发，激起，激活
 Inspire		激励，鼓舞
 Incentive		激励，动力，奖励
 Urge		敦促，鞭策，驱赶

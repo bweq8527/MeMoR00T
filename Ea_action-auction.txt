@@ -1,0 +1,2 @@
+Action		动作
+Auction		拍卖

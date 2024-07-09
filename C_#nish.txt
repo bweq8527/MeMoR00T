@@ -5,3 +5,5 @@ Banish		放逐，驱逐出境
 Finish		完成
 Burnish		打磨，抛光
 Furnish		布置；提供
+
+Abolish		废除，废止
