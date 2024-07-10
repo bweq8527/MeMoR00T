@@ -1,0 +1,5 @@
+Coast		海岸
+Toast		烤面包，吐司
+Roast		烤，炒，烘，培
+Boast		自吹自擂，自夸
+Hoast		咳

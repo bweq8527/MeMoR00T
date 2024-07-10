@@ -1,0 +1,4 @@
+Tease		取消，戏弄，挑逗
+Deride		嘲弄，戏弄，愚弄
+Mock		取笑，戏弄，嘲讽
+Ridicule		嘲笑，戏弄，奚落
