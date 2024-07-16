@@ -4,6 +4,7 @@ Promote		促进，推销，晋升，提倡
 Improve		改善
 Prompt		促使，引起，激起
 Strengthen	加强，加固
+Facilitate		促进，使便利
 
 Spur		促进，激励，加速；马刺
 

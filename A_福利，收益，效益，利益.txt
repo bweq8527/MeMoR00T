@@ -1,0 +1,5 @@
+Welfare		福利，红利
+Bonus		红利，津贴
+Benefit		利润，利益
+Profit		利益，营业额，好处，益处
+Favourable	有益的

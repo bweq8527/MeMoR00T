@@ -1,0 +1,5 @@
+Doctrine		信条，主义，教义
+Dogma		教条，教义，教理
+Creed		信条，信念，信经
+Credo		信条
+Tenet		原则，信条

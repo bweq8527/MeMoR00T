@@ -1,0 +1,3 @@
+Deduce		推理，推断
+Infer		推断，暗示
+Conclude		推论出，总结出
