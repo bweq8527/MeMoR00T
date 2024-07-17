@@ -1,0 +1,3 @@
+Ingredient	配料，成分，因素
+Component	成分。组件，部件
+Constituent	选民，成分
