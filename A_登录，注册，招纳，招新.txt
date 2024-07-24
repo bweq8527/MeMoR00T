@@ -1,0 +1,5 @@
+Login		注册，登录
+Enroll		登记，注册
+Register		注册，登记，寄存器
+
+Recruit		招纳
