@@ -1,0 +1,4 @@
+Breed		繁殖
+Foster		促进，培养
+Nurture		培养，培育
+Cultivate		开垦，种植，培育

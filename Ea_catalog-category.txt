@@ -1,0 +1,2 @@
+Catalog(ue)	目录
+Category		分类，类别
