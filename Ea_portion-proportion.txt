@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Portion		部分，一份
+=======
+Portion		部分，一份
+>>>>>>> Stashed changes
 Proportion	份额

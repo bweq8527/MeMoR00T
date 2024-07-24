@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Petrol		汽油
+=======
+Petrol		汽油
+>>>>>>> Stashed changes
 Portal		门户网站，出入口，正门
