@@ -2,4 +2,5 @@ Render		使变得...给予，提供，翻译，表达
 Supply		供应，提供
 Offer		提供，供应
 Furish		布置，提供
-Afford		买得起，负担得起，提供
+Afford		买得起，负担得起，提供‘
+Provide		提供
