@@ -1,0 +1,5 @@
+-scope
+
+
+Scope		范围，仔细看，彻底检查
+Telescope		望远镜

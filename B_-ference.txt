@@ -3,7 +3,7 @@
 
 Conference	会议
 Inference		推断，推理，推论
-Interference	干涉
+Interference	干涉，介入（interfere）
 Reference		参考，查阅；提及；推荐信
 Preference	偏好；优待，优惠
 Difference	不同，差异
