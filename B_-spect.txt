@@ -9,3 +9,6 @@ Prospect		展望，前景；可能性
 Suspect		怀疑，猜想
 Inspect		视察，检查，审阅
 Retrospect	回顾，回想
+
+Spectacular	壮观的，盛大的
+Speculate		推测，猜想
