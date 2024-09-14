@@ -1,0 +1,5 @@
+Detect		观察
+Detection		侦探
+
+DIctate		口述，命令
+Dictation		口述，命令
