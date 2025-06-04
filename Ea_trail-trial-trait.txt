@@ -1,3 +1,4 @@
 Trait		特质，特性
 Trail		痕迹
 Trial		审判，试验，试用
+Trick		把戏，技俩

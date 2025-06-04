@@ -1,0 +1,5 @@
+Commend	赞扬，推荐
+Command	命令，指挥
+Comment		评论
+Demand		要求，需求
+Recommend	推荐，建议

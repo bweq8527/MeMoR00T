@@ -1,2 +1,5 @@
 Broad		宽阔的，辽阔的
 Abroad		在国外
+Board		木板，板
+Aboard		在船上，在飞机上，在火车上
+Border		边界，国界
